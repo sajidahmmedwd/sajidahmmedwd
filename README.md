@@ -1,5 +1,5 @@
 # Hi there 👋, I'm SAJID AHMMED.
-#### An enthusiastic full stack web developer, having expertise in web application development.
+#### An enthusiastic Front-end web developer, having expertise in web application development.
 
 ![Profile views](https://gpvc.arturio.dev/sajidahmmedwd)  
 
@@ -18,7 +18,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 - 🌱 I’m currently learning MERN STACK Development 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: sajidahmmed777@gmail.com 
+- 📫 How to reach me: sajidahmmedwd@gmail.com 
 <br>
 
 ## ☕ Connect with me!
@@ -33,5 +33,5 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ## 📧 For Business Inquiries 👇
 
-✅ ► sajidahmmed777@gmail.com
+✅ ► sajidahmmedwd@gmail.com
 
