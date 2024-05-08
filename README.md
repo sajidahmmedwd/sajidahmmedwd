@@ -8,15 +8,15 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ## 👨‍💻 My Skills & Experiance:
 
-✅ HTML5 / CSS3 / Bootstrap / SASS <br>
+✅ HTML5 / CSS3 / Bootstrap5 / SASS <br>
 ✅ JavaScript <br>
-✅ PHP <br>
+✅ React JS <br>
 ✅ WordPress <br>
 ✅ Photoshop <br>
 <br>
 - 🔭 I’m currently working on as a Web Developer in Upwork & Fiverr 
 - 🌱 I’m currently learning MERN STACK Development 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: sajidahmmedwd@gmail.com 
 <br>
